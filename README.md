@@ -14,6 +14,7 @@ Overview of the Project
 
 Project:- MERN CHAT APP(TALK-a-tive)
 
+#NOTE: THE OUTPUT SCREENSHOT ARE ATTACHED IN FILE ALSO.
 
 About us:-Talk-a-tive is a Full Stack Chatting App.
 
